@@ -59,7 +59,7 @@ export const housesData = [
     id: 1,
     type: 'House',
     name: 'House 1',
-    description:;
+    description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, illoat. Repudiandae ratione impedit delectus consectetur. Aspernaturvero obcaecati placeat ab distinctio unde ipsam molestias atqueratione delectus blanditiis nemo eius dignissimos doloremque quaealiquid maiores id tempore consequatur, quod pariatur saepe.',
     image: House1,
     imageLg: House1Lg,

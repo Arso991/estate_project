@@ -3,7 +3,7 @@ import Form from '../components/Form';
 
 const Register = () => {
     return (
-        <div>
+        <div className='min-h-[1800-px]' >
             <Form method="Register" />
         </div>
     );

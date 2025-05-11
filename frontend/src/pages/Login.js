@@ -4,7 +4,7 @@ import Form from '../components/Form';
 
 const Login = () => {
     return (
-        <div>
+        <div className='min-h-[1800-px]' >
             <Form method='Login' />
         </div>
     );
